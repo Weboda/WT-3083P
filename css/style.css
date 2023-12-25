@@ -1,0 +1,22 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+
+.navbar-brand img {
+  width: auto;
+  height: 60px;
+}
+
+
+.feature {
+  width: 48px;
+  height: 48px;;
+
+}
+.fa-solid,.fas {
+  font-weight: 900;
+  font-size: 30px;
+  padding: 10px;
+}
